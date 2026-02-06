@@ -2,3 +2,4 @@
 .claude/
 .tldr/
 .tldrignore
+_codeql_detected_source_root
